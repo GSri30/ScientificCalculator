@@ -1,0 +1,46 @@
+2023-03-21 15:43:30.387 [main] INFO  org.example.App - Hello. Logger has been initiated!
+
+2023-03-21 16:04:25.300 [main] INFO  org.example.App - Square root -> Input: 100.0 -> Output: 10.0
+2023-03-21 16:04:25.304 [main] INFO  org.example.App - Square root -> Input: 100.0 -> Output: 10.0
+2023-03-21 16:04:25.306 [main] INFO  org.example.App - Logarithm -> Input: 1.0 -> Output: 0.0
+2023-03-21 16:04:25.311 [main] INFO  org.example.App - Power -> Input: 3.0, 2.0 -> Output: 9.0
+2023-03-21 16:04:25.315 [main] INFO  org.example.App - Factorial -> Input: 3.0 -> Output: 6.0
+2023-03-21 16:04:25.317 [main] INFO  org.example.App - Factorial -> Input: 3.0 -> Output: 6.0
+2023-03-21 16:04:25.321 [main] INFO  org.example.App - Power -> Input: 3.0, 2.0 -> Output: 9.0
+2023-03-21 16:04:25.324 [main] INFO  org.example.App - Logarithm -> Input: 1.0 -> Output: 0.0
+2023-03-21 16:04:37.058 [main] INFO  org.example.App - The Logger has been initiated!
+
+2023-03-21 16:04:45.400 [main] INFO  org.example.App - The chosen option is 1
+2023-03-21 16:04:54.271 [main] INFO  org.example.App - Square root -> Input: 100.0 -> Output: 10.0
+2023-03-21 16:04:54.273 [main] INFO  org.example.App - The Logger has been initiated!
+
+2023-03-21 16:05:53.810 [main] INFO  org.example.App - The chosen option is 4
+2023-03-21 16:07:37.135 [main] INFO  org.example.App - Power -> Input: 10.0, 4.0 -> Output: 10000.0
+2023-03-21 16:07:37.136 [main] INFO  org.example.App - The Logger has been initiated!
+
+2023-03-21 16:07:51.756 [main] INFO  org.example.App - The chosen option is 10
+2023-03-21 16:07:51.757 [main] INFO  org.example.App - Entered invalid option. Option should be lie in [0-4].
+2023-03-21 16:07:51.758 [main] INFO  org.example.App - The Logger has been initiated!
+
+2023-03-21 16:08:10.911 [main] INFO  org.example.App - The chosen option is 3
+2023-03-21 16:08:17.350 [main] INFO  org.example.App - Logarithm -> Input: 10.0 -> Output: 2.302585092994046
+2023-03-21 16:08:17.352 [main] INFO  org.example.App - The Logger has been initiated!
+
+2023-03-21 16:08:29.319 [main] INFO  org.example.App - The chosen option is 2
+2023-03-21 16:08:32.009 [main] INFO  org.example.App - Factorial -> Input: 5.0 -> Output: 120.0
+2023-03-21 16:08:32.010 [main] INFO  org.example.App - The Logger has been initiated!
+
+2023-03-21 16:08:43.197 [main] INFO  org.example.App - The chosen option is 1
+2023-03-21 16:08:48.546 [main] INFO  org.example.App - Square root -> Input: 3.0 -> Output: 1.7320508075688772
+2023-03-21 16:08:48.546 [main] INFO  org.example.App - The Logger has been initiated!
+
+2023-03-21 16:08:53.470 [main] INFO  org.example.App - The chosen option is 0
+2023-03-21 16:08:53.471 [main] INFO  org.example.App - Exited.
+2023-03-21 16:09:22.240 [main] INFO  org.example.App - Square root -> Input: 100.0 -> Output: 10.0
+2023-03-21 16:09:23.435 [main] INFO  org.example.App - Square root -> Input: 100.0 -> Output: 10.0
+2023-03-21 16:09:23.437 [main] INFO  org.example.App - Logarithm -> Input: 1.0 -> Output: 0.0
+2023-03-21 16:09:23.441 [main] INFO  org.example.App - Power -> Input: 3.0, 2.0 -> Output: 9.0
+2023-03-21 16:09:23.443 [main] INFO  org.example.App - Factorial -> Input: 3.0 -> Output: 6.0
+2023-03-21 16:09:23.445 [main] INFO  org.example.App - Factorial -> Input: 3.0 -> Output: 6.0
+2023-03-21 16:09:23.449 [main] INFO  org.example.App - Power -> Input: 3.0, 2.0 -> Output: 9.0
+2023-03-21 16:09:23.452 [main] INFO  org.example.App - Logarithm -> Input: 1.0 -> Output: 0.0
