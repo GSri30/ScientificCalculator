@@ -1,0 +1,13 @@
+2023-03-21 19:40:16.920 [main] INFO  org.example.App - Power -> Input: 3.0 4.0 -> Output: 81.0
+2023-03-21 19:40:56.447 [main] INFO  org.example.App - SquareRoot -> Input: 10.0 -> Output: 3.1622776601683795
+2023-03-21 19:44:34.913 [main] INFO  org.example.App - Logarithm -> Input: 100.0 -> Output: 4.605170185988092
+2023-03-21 19:45:07.882 [main] INFO  org.example.App - SquareRoot -> Input: 100.0 -> Output: 10.0
+2023-03-21 19:45:12.258 [main] INFO  org.example.App - Factorial -> Input: 5.0 -> Output: 120.0
+2023-03-21 19:45:16.362 [main] INFO  org.example.App - Logarithm -> Input: 15.0 -> Output: 2.70805020110221
+2023-03-21 19:45:22.785 [main] INFO  org.example.App - Power -> Input: 4.0 2.0 -> Output: 16.0
+2023-03-21 19:49:30.882 [main] INFO  org.example.App - Factorial -> Input: 3.0 -> Output: 6.0
+2023-03-21 19:50:08.098 [main] INFO  org.example.App - SquareRoot -> Input: 6.0 -> Output: 2.449489742783178
+2023-03-21 19:51:31.155 [main] INFO  org.example.App - Power -> Input: 2.0 5.0 -> Output: 32.0
+2023-03-21 19:54:08.218 [main] INFO  org.example.App - SquareRoot -> Input: 10.0 -> Output: 3.1622776601683795
+2023-03-21 19:54:16.778 [main] INFO  org.example.App - Logarithm -> Input: 9.0 -> Output: 2.1972245773362196
+2023-03-21 19:54:32.357 [main] INFO  org.example.App - Power -> Input: 3.0 5.0 -> Output: 243.0

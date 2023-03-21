@@ -26,14 +26,10 @@ public class App
         int option=-1;
         double a, b, r;
 
-        logger.info("The Logger has been initiated!\n");
-
         while(option!=0){
             App.main_menu();
             option = sc.nextInt();
             
-            logger.info("The chosen option is " + option);
-
             switch (option){
                 case 0:
                     System.out.println("Thank you! See you again!");
@@ -86,11 +82,9 @@ public class App
                     break;
                 default:
                     System.out.println("Please enter a valid option to proceed. You can choose from [0-4].");
-                    logger.info("Entered invalid option. Option should be lie in [0-4].");
             }
 
             if(option == 0){
-                logger.info("Exited.");
                 sc.close();
                 break;
             }
@@ -99,20 +93,18 @@ public class App
 
     public double _sqrt(double x) {
         if(x < 0) {
-            logger.info("Square root -> Invalid Input");
             return -1;
         }
 
         double r = Math.sqrt(x);
 
-        logger.info("Square root -> Input: " + x + " -> Output: " + r);
+        logger.info("SquareRoot -> Input: " + x + " -> Output: " + r);
 
         return r;
     }
 
     public  double _factorial(double x){
         if(x < 0) {
-            logger.info("Factorial -> Invalid Input");
             return -1;
         }
 
@@ -128,7 +120,6 @@ public class App
 
     public double _log(double x) {
         if(x <= 0){
-            logger.info("Logarithm -> Invalid Input");
             return -1;
         }
         
@@ -142,7 +133,7 @@ public class App
     public double _pow(double a, double b) {
         double r = Math.pow(a, b);
 
-        logger.info("Power -> Input: " + a + ", " + b + " -> Output: " + r);
+        logger.info("Power -> Input: " + a + " " + b + " -> Output: " + r);
 
         return r;
     }
