@@ -7,7 +7,7 @@ pipeline {
 
     environment
     {
-        registry = "GSri30/scientific-calculator"
+        registry = "gsri30/scientific-calculator"
         registryCredential = "DockerHUB"
         dockerImage = ""
     }
