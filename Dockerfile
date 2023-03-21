@@ -1,5 +1,5 @@
 # Set the base image to OpenJDK 17
-FROM openjdk:11
+FROM openjdk:17-jdk-slim
 
 # Copy contents from the target folder to the working dir
 ADD ./ScientificCalculator/target/ScientificCalculator-1.0-SNAPSHOT-jar-with-dependencies.jar ./
