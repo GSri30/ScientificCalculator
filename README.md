@@ -1,3 +1,3 @@
 # ScientificCalculator
   
-- SPE Mini Project
+SPE Mini Project
