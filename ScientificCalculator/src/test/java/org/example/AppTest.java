@@ -16,7 +16,7 @@ public class AppTest {
 
     @Test
     public void sqrtTrue(){
-        assertEquals("#1 Square Root : True", 10, calculator._sqrt(100), DELTA);
+        assertEquals("#1 Square Root : True", 9, calculator._sqrt(81), DELTA);
     }
 
     @Test
