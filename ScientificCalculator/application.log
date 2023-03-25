@@ -48,3 +48,22 @@
 2023-03-25 18:44:08.361 [main] INFO  org.example.App - Power -> Input: 3.2 2.3 -> Output: 14.515932837559118
 2023-03-25 18:44:08.362 [main] INFO  org.example.App - Power -> Input: 1000.0 1000.0 -> Output: Infinity
 2023-03-25 18:44:08.363 [main] INFO  org.example.App - Logarithm -> Input: 1.0 -> Output: 0.0
+2023-03-25 19:39:52.492 [main] INFO  org.example.App - SquareRoot -> Input: 81.0 -> Output: 9.0
+2023-03-25 19:39:52.496 [main] INFO  org.example.App - SquareRoot -> Input: 0.0 -> Output: 0.0
+2023-03-25 19:39:52.496 [main] INFO  org.example.App - SquareRoot -> Input: 110.0 -> Output: 10.488088481701515
+2023-03-25 19:39:52.497 [main] INFO  org.example.App - SquareRoot -> Input: 100.0 -> Output: 10.0
+2023-03-25 19:39:52.498 [main] INFO  org.example.App - SquareRoot -> Input: 110.0 -> Output: 10.488088481701515
+2023-03-25 19:39:52.500 [main] INFO  org.example.App - Logarithm -> Input: 1.0 -> Output: 0.0
+2023-03-25 19:39:52.500 [main] INFO  org.example.App - Logarithm -> Input: 10.0 -> Output: 2.302585092994046
+2023-03-25 19:39:52.504 [main] INFO  org.example.App - Power -> Input: 3.0 2.0 -> Output: 9.0
+2023-03-25 19:39:52.505 [main] INFO  org.example.App - Power -> Input: 3.2 2.3 -> Output: 14.515932837559118
+2023-03-25 19:39:52.507 [main] INFO  org.example.App - Power -> Input: 1000.0 -1000.0 -> Output: 0.0
+2023-03-25 19:39:52.510 [main] INFO  org.example.App - Factorial -> Input: 3.0 -> Output: 6.0
+2023-03-25 19:39:52.511 [main] INFO  org.example.App - Factorial -> Input: 30.0 -> Output: 2.6525285981219103E32
+2023-03-25 19:39:52.513 [main] INFO  org.example.App - Factorial -> Input: 10000.0 -> Output: Infinity
+2023-03-25 19:39:52.515 [main] INFO  org.example.App - Factorial -> Input: 3.0 -> Output: 6.0
+2023-03-25 19:39:52.516 [main] INFO  org.example.App - Factorial -> Input: 1000.0 -> Output: Infinity
+2023-03-25 19:39:52.518 [main] INFO  org.example.App - Power -> Input: 3.0 2.0 -> Output: 9.0
+2023-03-25 19:39:52.519 [main] INFO  org.example.App - Power -> Input: 3.2 2.3 -> Output: 14.515932837559118
+2023-03-25 19:39:52.519 [main] INFO  org.example.App - Power -> Input: 1000.0 1000.0 -> Output: Infinity
+2023-03-25 19:39:52.521 [main] INFO  org.example.App - Logarithm -> Input: 1.0 -> Output: 0.0
